@@ -1,0 +1,36 @@
+1001,03-01-2026,Chennai,Store A,Electronics,Wireless Mouse,2,799,1598,Completed,Online
+1002,04-01-2026,Coimbatore,Store B,Home,Desk Lamp,1,1299,1299,Completed,In-Store
+1003,05-01-2026,Bengaluru,Store C,Electronics,Keyboard,1,1499,1499,Completed,Online
+1004,06-01-2026,Chennai,Store A,Fashion,T-Shirt,3,499,1497,Completed,In-Store
+1005,08-01-2026,Hyderabad,Store D,Home,Water Bottle,2,399,798,Cancelled,Online
+1005,10-01-2026,Coimbatore,Store B,Electronics,Headphones,1,2499,2499,Completed,Online
+1007,11-01-2026,Bengaluru,Store C,Fashion,Jeans,2,1199,2398,Completed,In-Store
+1008,12-01-2026,Chennai,Store A,Home,Storage Box,4,299,1196,Completed,Online
+1009,14-01-2026,Hyderabad,Store D,Electronics,USB Hub,2,899,1798,Returned,Online
+1010,15-01-2026,Coimbatore,Store B,Fashion,Sneakers,1,2199,2199,Completed,In-Store
+1011,17-01-2026,Chennai,Store A,Electronics,Monitor,1,8999,8999,Completed,Online
+1012,19-01-2026,Bengaluru,Store C,Home,Bedsheet,2,999,1998,Completed,In-Store
+1013,20-01-2026,Hyderabad,Store D,Fashion,Jacket,1,2499,2499,Cancelled,Online
+1014,22-01-2026,Coimbatore,Store B,Electronics,Power Bank,2,1299,2598,Completed,Online
+1015,24-01-2026,Chennai,Store A,Fashion,Cap,2,299,598,Completed,In-Store
+1016,02-02-2026,Bengaluru,Store C,Electronics,Smartwatch,1,4999,4999,Completed,Online
+1017,03-02-2026,Coimbatore,Store B,Home,Cookware Set,1,2999,2999,Completed,In-Store
+1018,05-02-2026,Chennai,Store A,Electronics,Charger,3,599,1797,Completed,Online
+1019,07-02-2026,Hyderabad,Store D,Home,Curtains,2,799,1598,Completed,In-Store
+1020,08-02-2026,Bengaluru,Store C,Fashion,Backpack,1,1599,1599,Returned,Online
+1021,10-02-2026,Coimbatore,Store B,Electronics,SSD,1,5499,5499,Completed,Online
+1022,12-02-2026,Chennai,Store A,Home,Pillow,4,349,1396,Completed,In-Store
+1023,15-02-2026,Bengaluru,Store C,Electronics,Speaker,2,1799,3598,Completed,Online
+1024,17-02-2026,Hyderabad,Store D,Fashion,Wallet,3,599,1797,Completed,In-Store
+1025,20-02-2026,Coimbatore,Store B,Home,Lunch Box,2,499,998,Cancelled,Online
+1026,01-03-2026,Chennai,Store A,Electronics,Webcam,1,1999,1999,Completed,Online
+1027,04-03-2026,Bengaluru,Store C,Home,Towel Set,2,699,1398,Completed,In-Store
+1028,06-03-2026,Coimbatore,Store B,Fashion,Formal Shirt,2,899,1798,Completed,In-Store
+1029,09-03-2026,Hyderabad,Store D,Electronics,Router,1,2299,2299,Completed,Online
+1030,12-03-2026,Chennai,Store A,Fashion,Dress,1,1799,1799,Returned,Online
+1031,14-03-2026,Bengaluru,Store C,Home,Wall Clock,1,899,899,Completed,In-Store
+1032,18-03-2026,Coimbatore,Store B,Electronics,Tablet,1,14999,14999,Completed,Online
+1033,20-03-2026,Hyderabad,Store D,Home,Floor Mat,3,499,1497,Completed,In-Store
+1034,22-03-2026,Chennai,Store A,Electronics,Earbuds,2,1599,3198,Completed,Online
+1035,25-03-2026,Bengaluru,Store C,Fashion,Socks Pack,5,199,995,Completed,In-Store
+,,,,,,,71315,90634,,
